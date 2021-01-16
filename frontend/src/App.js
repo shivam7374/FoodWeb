@@ -55,7 +55,37 @@ function App() {
           </div>
         </div>
       </main>
-      <footer className="row center">All right reserved © 2021 Design by team ThunderBolt</footer>
+      <footer class=" bg-dark">
+           <div class="row bg-dark">
+             <div class="col-md-4 ml-5 text-light my-3">
+               <h2 >SUPERMART</h2>
+               <a href="https://www.facebook.com/" ><img className="logo" src="../images/facebook-logo.png" height="40"  alt="FoodWeb"/></a>
+               <a href="https://www.instagram.com/"><img className="logo" src="../images/instagram-logo.png" height="40"  alt="FoodWeb"/></a>
+               <a href="https://www.twitter.com/" ><img className="logo" src="../images/twitter-logo.webp" height="40" margin="5px" alt="FoodWeb"/></a>
+               </div>
+                  <div class="col-md-3 mx-3 my-3">
+                   <h3 class="text-light" >Information</h3>
+                   
+                   <a href="#" class="d-block">About us</a>
+                   <a href="#" class="d-block">Branches</a>
+                   <a href="#" class="d-block">Terms and conditions</a>
+                   <a href="#" class="d-block">Privacy Policy</a>
+                
+            </div>
+            <div class="col-md-3 mx-3 my-3">
+                <h3 class="text-light" >Account</h3>
+                
+                <a href="#" class="d-block">My Account</a>
+                <a href="#" class="d-block">History</a>
+                <a href="#" class="d-block">My wishlist</a>
+                <a href="#" class="d-block">Help</a>
+             
+         </div>
+            
+        </div>
+       </footer>
+  
+  
     </div>
   );
 }
