@@ -103,3 +103,10 @@ img.medium {
   color: #f0c040;
   margin: 0.1rem;
 }
+.logo 
+{
+  margin-top: 5px;
+   margin-right: 15px;
+   border-radius: 20px;
+   border: 2px solid white;
+}
