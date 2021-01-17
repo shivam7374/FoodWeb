@@ -29,6 +29,7 @@ function App() {
   return (
     <BrowserRouter>
       <div className="grid-container">
+
         <header className="header">
           <div className="brand">
             <Link to="/" ><img className="FoodWeb" src="../images/FoodWeb2.png" height="70" alt="FoodWeb"/></Link>
