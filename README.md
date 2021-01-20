@@ -1,9 +1,7 @@
 # Foodweb
-
 Demo Website Link
 
 You have to Run Both Frontend as well as backend so only you could see website.
-
 <h3>Run Locally</h3>
 
 <strong>For Run in Backend</strong>
@@ -22,15 +20,15 @@ You have to Run Both Frontend as well as backend so only you could see website.
 
 `npm start`
 
-_Backend will Run at `http://localhost:5000` and Frontend will Run at `http://localhost:3000`_
+  *Backend will Run at `http://localhost:5000` and Frontend will Run at `http://localhost:3000`*  
 
-Only Admin Can See '**Order Placed Info**' and '**create product info**'
+Only Admin Can See '**Order Placed Info**' and '**create product info**' 
 
 # Team Members
 
 **SHIVAM**
 
-**AKASH**
+**AKASH** 
 
 **NAMAN**
 
